@@ -1,4 +1,8 @@
-### Hi！👋🐻💕
+### Hi！这里是我的Github仓库💕
+- 开发：微信小程序/前端Vue开发/后端Flask
+- 机器学习：视频时刻检索/降噪（学习中）
+- 喜欢探索新领域/技术
+- 欢迎🌟和关注
 
 <!--
 **liuxiaoleicode001/liuxiaoleicode001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
